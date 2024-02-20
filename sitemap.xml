@@ -2,18 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://zulit.site/gallery/NanKing/index.html</loc>
-    
-    <lastmod>2024-02-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://zulit.site/gallery/Weihai/index.html</loc>
     
-    <lastmod>2024-02-18</lastmod>
+    <lastmod>2024-02-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,6 +13,24 @@
   <url>
     <loc>https://zulit.site/about/index.html</loc>
     
+    <lastmod>2024-02-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://zulit.site/gallery/YCH/JAY%20CHOU/index.html</loc>
+    
+    <lastmod>2024-02-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://zulit.site/archives/4a17b156.html</loc>
+    
     <lastmod>2024-02-18</lastmod>
     
     <changefreq>monthly</changefreq>
@@ -29,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://zulit.site/YCH/JAY%20CHOU/index.html</loc>
+    <loc>https://zulit.site/gallery/NanKing/index.html</loc>
     
     <lastmod>2024-02-18</lastmod>
     
@@ -65,15 +74,6 @@
   </url>
   
   <url>
-    <loc>https://zulit.site/archives/4a17b156.html</loc>
-    
-    <lastmod>2024-01-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://zulit.site/categories/index.html</loc>
     
     <lastmod>2024-01-26</lastmod>
@@ -103,7 +103,7 @@
 
   <url>
     <loc>https://zulit.site/</loc>
-    <lastmod>2024-02-18</lastmod>
+    <lastmod>2024-02-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -111,35 +111,35 @@
   
   <url>
     <loc>https://zulit.site/tags/JavaScript/</loc>
-    <lastmod>2024-02-18</lastmod>
+    <lastmod>2024-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://zulit.site/tags/%E5%AF%92%E5%81%87%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2024-02-18</lastmod>
+    <lastmod>2024-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://zulit.site/tags/CSS/</loc>
-    <lastmod>2024-02-18</lastmod>
+    <lastmod>2024-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://zulit.site/tags/Blog/</loc>
-    <lastmod>2024-02-18</lastmod>
+    <lastmod>2024-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://zulit.site/tags/Hexo/</loc>
-    <lastmod>2024-02-18</lastmod>
+    <lastmod>2024-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -148,14 +148,14 @@
   
   <url>
     <loc>https://zulit.site/categories/%E5%AF%92%E5%81%87%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2024-02-18</lastmod>
+    <lastmod>2024-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://zulit.site/categories/Blog%E6%90%AD%E5%BB%BA%E7%BE%8E%E5%8C%96/</loc>
-    <lastmod>2024-02-18</lastmod>
+    <lastmod>2024-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
